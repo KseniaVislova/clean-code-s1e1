@@ -159,7 +159,7 @@ li > * {
 /* Edit Task */
 
 .task-text {
-  display: none
+  display: none;
 }
 
 .edit-mode .task-text {
