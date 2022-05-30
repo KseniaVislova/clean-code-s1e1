@@ -120,7 +120,7 @@
   align-items: center;
 }
 
-li > * {
+.task-button, .task-text, .task-checkbox, .task-label {
   vertical-align: middle;
 }
 
