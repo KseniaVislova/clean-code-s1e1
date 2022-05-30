@@ -21,7 +21,8 @@
 }
 
 @media (max-width:768px) {
-  .header { text-align: center;
+  .header { 
+    text-align: center;
   }
 }
 
@@ -46,11 +47,13 @@
   padding: 0px;
 }
 
-.tasks-item, .title {
+.tasks-item,
+.title {
   list-style:none;
 }
 
-.input,.button{
+.input,
+.button{
   outline: none;
 }
 
@@ -120,7 +123,10 @@
   align-items: center;
 }
 
-.task-button, .task-text, .task-checkbox, .task-label {
+.task-button,
+.task-text,
+.task-checkbox,
+.task-label {
   vertical-align: middle;
 }
 
